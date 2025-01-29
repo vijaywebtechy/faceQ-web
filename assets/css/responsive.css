@@ -1,0 +1,763 @@
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    #header #logo img{
+        padding-left: 16px;
+        max-width: 80%
+    }
+    #intro h1{
+        line-height: 50px;
+        font-size: 32px;
+    }
+    #intro h1 span{
+        font-size: 32px;
+    }
+    #intro .about-btn {
+    position: absolute;
+    bottom: 20px;
+    left: 45%;
+}
+
+
+    #product{
+        padding-top: 60px;
+        padding-bottom: 0;
+    }
+    #product .col-lg-5{
+        padding-right:16px;
+    }
+    #product .sec-content{
+        padding: 16px;
+    }
+    .sec-content h2{
+        font-size: 32px;
+        margin: 24px 0 18px 0;
+    }
+    #product .tech-cards::after{
+        display: none
+    }
+    
+    .product-tech-row{
+        margin-top: 60px;
+    }
+    #product .tech-cards{
+        text-align: center;
+        padding-left: 0;
+    }
+
+    
+    
+    #features{
+        padding-top: 60px;
+        padding-bottom: 0;
+    }
+    #features .sec-content{
+        padding-left: 16px;
+    }
+    #features .sec-content p{
+        width: 100%;
+    }
+    
+    
+    
+    #industries{
+        padding-top: 60px;
+        padding-bottom: 0;
+    }
+    
+    #industries .sec-content{
+        padding-left: 16px;
+    }
+    .slider-bottom{
+        position: inherit;
+    }
+    .slider-bottom .col-lg-6{
+        height: 80px;
+    }
+    .slider-bottom .left h3 {
+        font-size: 14px;
+    }
+    
+    
+    #demo .sec-content{
+        padding-left: 16px;
+        padding-top: 60px;
+
+    }
+    
+    #pricing{
+        padding-top: 60px;
+    }
+    
+    
+    .price-card{
+        margin-bottom: 2rem;
+        width: 350px;
+        height: 500px;
+    }
+    
+    .quote-sec{
+        min-height: 300px;
+    }
+    .quote-req-sec p{
+        font-size: 32px;
+    }
+    
+    
+    
+    .footer-left .sec-content{
+        padding-left: 16px;
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+    
+    .newsletter{
+        position: inherit;
+    }
+    
+    
+    .footer-right div h3{
+        font-size: 32px;
+    }
+    
+    .address-row{
+        padding-left: 0
+    }
+    
+    .product-of-txt p{
+        text-align: left;
+    }
+    
+    
+}
+
+
+@media only screen and (min-width:320px) and (max-width:767px){
+    
+    
+/*    SECTION CONTENT START  */
+    .sec-content > span{
+        font-size: 14px;
+    }
+    .sec-content h2{
+        font-size: 24px;
+        margin: 10px 0;
+    }
+    .sec-content p{
+        font-size: 14px;
+        width: 100%;
+    }
+/*    SECTION CONTENT END  */
+    
+    
+    #header{
+        display: flex;
+        align-items: center;
+    }
+    
+    #header #logo img{
+        padding-left: 0px;
+        max-width: 60%
+    }
+    #intro .intro-container{
+        padding: 0;
+    }
+    #intro h1{
+        line-height: 40px;
+        font-size: 28px;
+        word-break: break-all;
+        margin-bottom: 10px;
+    }
+    #intro h1 span{
+        font-size: 28px;
+    }
+    #intro h1 br{
+        display: none ;
+    }
+    #intro p{
+        font-size: 14px;
+        word-break: break-all;
+    }
+    #intro p br{
+        display: none;
+    }
+    #intro .about-btn {
+        left: 41%;
+        bottom: 10px;    `````````````````````````````````````
+}
+    
+    
+/*PRODUCT SEC START */
+    
+    #product{
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    #product .sec-content{
+        padding-left: 0;
+    }
+    #product .sec-content > span{
+        font-size: 14px;
+    }
+    .sec-content > span::after{
+        width: 55px;
+        right: -65px;
+    }
+    #product .col-lg-5{
+        padding-right:16px;
+    }
+    #product .col-lg-5 img{
+        height: auto;
+    }
+     #product .sec-content h2{
+        font-size: 24px;
+        margin: 10px 0;
+        line-height: 40px;
+    }
+    #product .sec-content p{
+        width: 100%;
+        font-size: 14px;
+    }
+    #product .secondary-btn{
+        margin-bottom: 35px;
+        text-align: center;
+        width: 100%;
+    }
+    #product .tech-cards::after{
+        display: none
+    }
+    
+    .product-tech-row{
+        margin-top: 40px;
+    }
+    #product .tech-cards{
+        text-align: center;
+        padding-left: 0;
+        height: auto;
+    }
+    #product .tech-cards h5{
+        font-size: 16px;
+        margin: 0.7rem 0;
+    }
+    #product .tech-cards p{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    
+    #features{
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    #features h2 br{
+        display: none;
+    }
+    #features .sec-content{
+        padding-left: 0;
+    }
+    #features .sec-content p{
+        width: 100%;
+    }
+    #features .secondary-btn{
+        width: 100%;
+        text-align: center;
+    }
+
+    
+    .slider-bottom{
+        position: inherit;
+    }
+    .slider-bottom .col-lg-6{
+        height: 80px;
+    }
+    .slider-bottom .left h3{
+        font-size: 14px;
+    }
+    .slider-bottom .left h3 span{
+        width: 40px;
+    }
+    .progress-line{
+        width: 70px;
+    }
+    
+    
+    .video-container{
+        margin-right: 0;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    .video-rect::after,
+    .rect1, .rect2, .rect3, .rect4
+    {
+        display: none;
+    }
+    
+    #demo .play-btn{
+        left: 35%;
+        top: 28%;
+    }
+        #demo .secondary-btn{
+        width: 100%;
+        text-align: center;
+    }
+    
+    
+    
+    #industries{
+        padding-top: 40px;
+        padding-bottom: 0;
+    }
+    
+    #industries .sec-content{
+        padding-left: 0;
+    }
+    
+    
+    
+    #demo .sec-content{
+        padding-left: 0;
+        padding-top: 40px;
+
+    }
+    
+    
+    
+/*    PRICING START  */
+    #pricing{
+        padding: 0;
+        padding-top: 40px;
+    }
+    #pricing .sec-content p{
+        margin-bottom: 0;
+    }
+    .price-card{
+        margin-bottom: 2rem;
+        width: 100%;
+        height: 360px;
+    }
+    
+    #pricing .price-card .card-header{
+        padding: 0;
+        padding-top: 30px;
+    }
+    #pricing .price-card .card-header span{
+        margin-bottom: 10px;
+    }
+    #pricing .price-card .card-body ul li h3{
+        font-size: 28px;
+    }
+    #pricing .price-card .card-body ul li:nth-child(1){
+        padding-bottom: 30px;
+    }
+    #pricing .price-card .card-footer{
+        padding-bottom: 30px;
+        padding-top: 0;
+    }
+
+    
+    
+    
+    
+    
+    .quote-sec{
+        min-height: 270px;
+        padding: 10px;
+    }
+    .quote-req-sec p{
+        font-size: 24px;
+    }
+    .quote-req-sec p br{
+        display: none;
+    }
+    .quote-sec .primary-btn{
+        margin-top: 0;
+    }
+/* PRICING END */
+    
+    
+    .footer-left .sec-content{
+        padding: 0;
+        padding-top: 40px;
+        padding-left: 16px;
+    }
+    
+    .newsletter{
+        position: inherit;
+    }
+    .newsletter .content .btn{
+        font-size: 12px;
+        width: 120px;
+    }
+    
+    .ul-style-one{
+        justify-content: space-around;
+    }
+    
+    .footer-right div h3{
+        font-size: 24px;
+    }
+    
+    .address-row{
+        padding-left: 0
+    }
+    .address-row > div > div > div{
+        margin-bottom: 20px;
+    }
+    
+    .product-of-txt p{
+        text-align: left;
+    }
+    
+    
+    .newsletter .content{
+        padding: 0 16px;
+    }
+    .newsletter .content p{
+        font-size: 14px;
+    }
+    
+    
+    
+    
+    
+    .footer-right{
+        padding: 40px 16px 0 16px;
+    }
+    
+    .footer-row-one{
+        padding-top: 16px;
+    }
+    .footer-right h6{
+        font-size: 14px;
+    }
+    .about-footer-txt div p{
+        font-size: 12px;
+    }
+    .social-ul{
+        margin-top: 0;
+    }
+    .ul-style-one ul li span{
+        font-size: 12px;
+    }
+    .ul-style-one ul:last-child {
+        margin-left: 16px;
+    }
+    
+    .company-ul{
+        margin-top: 1rem;
+    }
+    .line-lg div img{
+        display: none;
+    }
+    .footer-right div h3{
+        margin-bottom: 0;
+    }
+    .footer-rt-btm p{
+        margin: 10px 0;
+    }
+    .address-row{
+        padding: 10px 0;
+    }
+
+    
+}
+
+
+
+
+
+@media only screen and (min-width:1200px) and (max-width:1440px){
+    
+    /*    section content   */
+    .sec-content h2{
+        font-size: 42px;
+        margin: 2rem 0;
+    }
+    #header{
+        height: 115px;
+        padding: 25px 0;
+    }
+    #intro h1{
+        font-size: 48px;
+    }
+    #intro h1 span{
+        font-size: 52px;
+    }
+    #intro .about-btn{
+        bottom: 40px;
+    }
+    .product-tech-row{
+        padding-left: 88px;
+    }
+    #product .col-lg-5 img{
+        height: auto;
+    }
+    #product .tech-cards::after{
+        right: -16px;
+        top: -14px;
+    }
+    
+    .slider-bottom{
+        position: inherit;
+    }
+    
+    .video-rect::after{
+        width: 580px;
+    }
+    
+    #industries .sec-content p{
+        width: 100%;
+    }
+    #industries .sec-content .benifits-title{
+        margin-bottom: 0; 
+    }
+    #industries ul li{
+        margin: 15px 0;
+    }
+    
+    #industries, #features{
+        padding-top: 0;
+    }
+    #pricing .price-card {
+        height: 500px;
+    }
+    
+    #pricing .price-card .card-header{
+        padding: 35px 0;
+    }
+    #pricing .price-card .card-body ul li h3{
+        font-size: 42px;
+    }
+
+    .quote-sec{
+        min-height: 430px;
+    }
+    .quote-req-sec p{
+        font-size: 42px;
+    }
+    
+    
+    .footer-right div h3{
+        font-size: 42px;
+    }
+    .footer-left .sec-content{
+        padding: 82px 10px 0px 135px;
+    }
+    .footer-left .sec-content p{
+        margin-bottom: 8px;
+    }
+    .newsletter .content .btn{
+        width: 125px;
+        font-size: 12px;
+    }
+    .address-row{
+        padding: 50px 0;
+    }
+    .newsletter .content{
+        padding: 0 30px 0 135px;
+    }
+    
+    
+}
+
+
+
+@media only screen and (min-width:1441px) and (max-width:1800px){
+    .sec-content h2{
+        font-size: 54px;
+    }
+    #header {
+        height: 140px;
+    }
+    #intro .intro-container {
+        left: -56px;
+    }
+    #intro .about-btn{
+        bottom: 25px;
+    }
+    #product .col-lg-5 img{
+        height: auto;
+    }
+    .product-tech-row{
+        padding-left: 58px;
+    }
+    #product .tech-cards::after{
+        right: -35px;
+    }
+}
+
+
+@media only screen and (min-width:1024px) and (max-width:1199.99px){
+    
+    #header{
+        height: 120px;
+    }
+    #header #logo img{
+        padding-left: 0;
+        width: 80%;
+    }
+    
+
+    
+    #intro h1 span{
+        font-size: 48px;
+    }
+        #intro h1 {
+        font-size: 32px;
+    }
+    #intro p{
+        font-size: 14px;
+    }
+    #intro .about-btn{
+        bottom: 20px;
+    }
+    #product .sec-content{
+        padding-left: 0;
+    }
+    
+    .sec-content h2{
+        font-size: 28px;
+        margin: 20px 0;
+    }
+    .sec-content p{
+        font-size: 14px;
+        width: 100%;
+    }
+    
+    #product .col-lg-5 img{
+        height: auto;
+    }
+    #product .tech-cards{
+        padding-left: 0;
+    }
+    #product .tech-cards h5{
+        font-size: 18px;
+    }
+    #product .tech-cards p{
+        font-size: 14px;
+        line-height: 28px;
+    }
+    #product .tech-cards::after{
+        right: 0;
+    }
+    
+    
+    #features .sec-content{
+        padding-left: 0;
+    }
+    #industries .sec-content{
+        padding-left: 0;
+    }
+    .slider-bottom{
+        position: inherit;
+    }
+    .slider-bottom .left h3{
+        font-size: 22px;
+    }
+    .slider-bottom .left h3 span{
+        width: 70px;
+    }
+    
+    .counter-info{
+        font-size: 24px;
+    }
+    .progress-line{
+        width: 95px;
+    }
+    .slider-bottom .right button{
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+    .slider-bottom .col-lg-6{
+        height: 95px;
+    }
+    
+    #industries ul li{
+        font-size: 14px;
+    }
+    
+    #demo .sec-content{
+        padding-left: 0;
+    }
+    .video-rect::after{
+        display: none;
+    }
+    .video-container{
+        margin-right: 0;
+        margin-top: 65px;
+    }
+    .rect1,.rect2,.rect3,.rect4{
+        display: none;
+    }
+    
+    #pricing{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+    .price-card{
+        height: 450px;
+    }
+    #pricing .price-card .card-header{
+        padding-bottom: 0;
+    }
+    #pricing .price-card .card-body ul li h3{
+        font-size: 32px;
+    }
+    #pricing .price-card .card-body ul li span{
+        font-size: 14px;
+    }
+    
+    .quote-sec{
+        min-height: 260px;
+    }
+    .quote-req-sec p{
+        font-size: 32px;
+    }
+    .quote-sec .primary-btn{
+        margin-top: 10px;
+    }
+    
+    .footer-left .sec-content{
+        padding-left: 16px;
+    }
+    .newsletter{
+        padding: 32px 0;
+        position: inherit;
+    }
+    .newsletter .content{
+        padding: 0 16px;
+    }
+    .newsletter .content p::before{
+        top: -12px;
+    }
+    .footer-right{
+        padding: 74px 16px 0 16px;
+    }
+    .footer-right div h3{
+        font-size: 32px;
+    }
+    .footer-row-one{
+        padding: 0;
+    }
+    .address-row{
+        padding: 50px 0;
+    }
+    .footer-right h6{
+        font-size: 14px;
+    }
+    .address-row > div > div h6::after{
+        display: none
+    }
+    .address-row > div > div p{
+        font-size: 12px;
+    }
+    .ul-style-one ul{
+        padding: 0;
+    }
+    .ul-style-one ul::before{
+        left: -16px;
+    }
+
+}
+
+
+
